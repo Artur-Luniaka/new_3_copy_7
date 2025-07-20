@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "title": "Sede Principale",
+      "email": "chaos@experiencehb.com",
+      "phone": "+39 091 616 5691",
+      "location": "Via Roma, 375, 90133 Palermo PA, Italia",
+      "description": "Il nostro quartier generale, dove nascono tutte le sfide enigmistiche. Qui creiamo i rompicapi più intricati e pianifichiamo livelli mozzafiato."
+    },
+    {
+      "title": "Team di Supporto",
+      "email": "support@experiencehb.com",
+      "phone": "+39 091 616 5691",
+      "location": "Via Roma, 375, 90133 Palermo PA, Italia",
+      "description": "Assistenza dedicata per risolvere ogni dubbio sui nostri enigmi. Il nostro team è disponibile 24/7 per guidarti attraverso ogni livello."
+    },
+    {
+      "title": "Linea di Emergenza",
+      "email": "emergency@experiencehb.com",
+      "phone": "+39 091 616 5691",
+      "location": "Via Roma, 375, 90133 Palermo PA, Italia",
+      "description": "Aiuto immediato per quei rompicapi che ti bloccano. Quando un enigma sembra impossibile, chiamaci per un suggerimento salvavita."
+    },
+    {
+      "title": "Team di Sviluppo",
+      "email": "dev@experiencehb.com",
+      "phone": "+39 091 616 5691",
+      "location": "Via Roma, 375, 90133 Palermo PA, Italia",
+      "description": "I nostri sviluppatori lavorano giorno e notte per creare enigmi sempre più stimolanti e coinvolgenti."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "crashes": [
+    {
+      "title": "Blocco Enigmatico Estremo",
+      "location": "Downtown Los Angeles",
+      "date": "14 dicembre 2024",
+      "description": "Un rompicapo così complesso da bloccare oltre 50 giocatori simultaneamente. La soluzione ha richiesto più di 2 ore di ragionamento collettivo.",
+      "severity": "Critico"
+    },
+    {
+      "title": "Malfunzionamento Logico",
+      "location": "Times Square, NYC",
+      "date": "12 dicembre 2024",
+      "description": "Un errore nel sistema di indizi ha creato una sfida senza precedenti, con soluzioni che sembravano contraddirsi tra loro. Risolto dopo 45 minuti di intenso brainstorming.",
+      "severity": "Alto"
+    },
+    {
+      "title": "Confusione da Indizi Incrociati",
+      "location": "Chicago Loop",
+      "date": "10 dicembre 2024",
+      "description": "Indizi multipli hanno creato uno schema così intricato da mettere in difficoltà anche i solutori più esperti. È servita la collaborazione di tutto il team per trovare la via d'uscita.",
+      "severity": "Medio"
+    },
+    {
+      "title": "Labirinto Imprevisto",
+      "location": "San Francisco Bay Bridge",
+      "date": "8 dicembre 2024",
+      "description": "La combinazione di enigmi visivi e logici ha creato una sfida particolarmente insidiosa. La complessità ha quasi azzerato il tasso di successo dei partecipanti.",
+      "severity": "Alto"
+    },
+    {
+      "title": "Effetto Domino Logico",
+      "location": "Atlanta Perimeter",
+      "date": "6 dicembre 2024",
+      "description": "Una serie consecutiva di enigmi correlati ha paralizzato i progressi dei giocatori. Alcuni hanno impiegato fino a 4 ore per risolvere la catena completa.",
+      "severity": "Critico"
+    },
+    {
+      "title": "Nebbia Puzzologica",
+      "location": "Seattle Downtown",
+      "date": "4 dicembre 2024",
+      "description": "Indizi volutamente ambigui hanno creato condizioni di gioco particolarmente difficili. Molti partecipanti hanno perso l'orientamento logico, causando una serie di soluzioni errate.",
+      "severity": "Medio"
+    }
+  ]
+}

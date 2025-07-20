@@ -1,0 +1,56 @@
+{
+  "updates": [
+    {
+      "title": "Patch Logica v2.1.1",
+      "version": "2.1.1",
+      "date": "15 dicembre 2024",
+      "description": "Miglioramenti critici e ottimizzazioni per gestire la crescente complessità degli enigmi.",
+      "changes": [
+        "Risolti problemi di logica negli enigmi ad alta difficoltà",
+        "Migliorato il comportamento degli indizi dinamici",
+        "Ottimizzata la reattività del sistema di suggerimenti",
+        "Ridotti i tempi di caricamento nei livelli complessi",
+        "Corretti glitch negli enigmi a schema circolare"
+      ]
+    },
+    {
+      "title": "Espansione Enigmistica v2.1.0",
+      "version": "2.1.0",
+      "date": "10 dicembre 2024",
+      "description": "Importante aggiornamento che introduce nuovi tipi di rompicapi e meccaniche potenziate.",
+      "changes": [
+        "Aggiunti 5 nuove categorie di enigmi",
+        "Implementati effetti visivi dinamici per gli indizi",
+        "Potenziato il sistema di difficoltà progressiva",
+        "Nuove tipologie di aiuti per i giocatori",
+        "Migliorati gli algoritmi di generazione dei puzzle"
+      ]
+    },
+    {
+      "title": "Rivoluzione Puzzle v2.0.0",
+      "version": "2.0.0",
+      "date": "1 dicembre 2024",
+      "description": "Completa rivisitazione del gioco con nuove meccaniche e interfaccia migliorata.",
+      "changes": [
+        "Completo redesign dell'interfaccia utente",
+        "Nuovo sistema di suggerimenti contestuali",
+        "Potenziato il sistema di feedback per le soluzioni",
+        "Migliorata la reattività su dispositivi mobile",
+        "Aggiunto sistema di indizi progressivi"
+      ]
+    },
+    {
+      "title": "Correzioni Logiche v1.9.5",
+      "version": "1.9.5",
+      "date": "20 novembre 2024",
+      "description": "Piccole correzioni e miglioramenti alla stabilità del gioco.",
+      "changes": [
+        "Risolti problemi di logica negli enigmi spaziali",
+        "Corretti tempi di visualizzazione degli indizi",
+        "Migliorato il sistema di generazione casuale",
+        "Risolti problemi di touch su schermi piccoli",
+        "Migliorata l'accuratezza del riconoscimento delle soluzioni"
+      ]
+    }
+  ]
+}
