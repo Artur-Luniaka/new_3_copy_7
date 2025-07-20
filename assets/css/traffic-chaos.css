@@ -902,6 +902,7 @@ body {
   margin: 0 auto;
   padding: 0 2rem;
   display: flex;
+  justify-content: center;
   flex-direction: row-reverse;
   gap: 2rem;
 }
